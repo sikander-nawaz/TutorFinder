@@ -1,3 +1,5 @@
+// TEXT SLIDER STARTED.
+
 (() => {
   let TypingSpeed = 60;
   let NxtMsgDelay = 2000;
@@ -35,3 +37,5 @@
 
   StartTyping();
 })();
+
+// TEXT SLIDER ENDED.
