@@ -95,6 +95,19 @@ iframe {
   font-size: 40px;
 }
 
+.first > li {
+  margin: 5px;
+}
+
+.first > li > a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.first > li > a:hover {
+  border-bottom: 2px solid #dc3545;
+}
+
 .copyright {
   margin-top: 70px;
   text-align: center;
