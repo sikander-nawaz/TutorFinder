@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Manrope", sans-serif;
+}
+
+.nav-link:hover {
+  background-image: linear-gradient(to right, #dc3545, #ffc107);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
