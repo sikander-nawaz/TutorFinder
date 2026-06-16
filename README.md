@@ -196,4 +196,6 @@ BACKEND_URL=https://your-backend.up.railway.app
 
 ## License
 
-MIT
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) — free to use, modify, and distribute with attribution.
+
+© 2026 Shahmeer. Built for portfolio and demo purposes.
