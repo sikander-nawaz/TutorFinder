@@ -83,8 +83,8 @@ TutorFinder/
 
 ```bash
 # Clone the repo
-git clone https://github.com/Shahmeer-8/tutor-finder.git
-cd tutor-finder/TutorFinder
+git clone https://github.com/sikander-nawaz/TutorFinder.git
+cd TutorFinder
 
 # Install dependencies
 pnpm install
