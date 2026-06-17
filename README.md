@@ -194,6 +194,10 @@ BACKEND_URL=https://your-backend.up.railway.app
 
 ---
 
+## Future Work
+1. Add real chat system between tutor and student via Socket.IO
+2. Add new feature of LMS(assignments, test, presentation)
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) — free to use, modify, and distribute with attribution.
