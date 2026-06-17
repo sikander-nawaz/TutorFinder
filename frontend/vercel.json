@@ -1,0 +1,6 @@
+{
+  "framework": "nextjs",
+  "installCommand": "npm install -g pnpm && cd .. && pnpm install",
+  "buildCommand": "cd .. && pnpm --filter @workspace/tutor-finder run build",
+  "outputDirectory": ".next"
+}

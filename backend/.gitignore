@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# Environment variables (Database URLs, JWT secrets, API keys)
+.env
+
+# Build or distribution folder (if using TypeScript compilation)
+dist/
+build/
+
+# Logs
+logs/
+*.log
